@@ -1,0 +1,55 @@
+# Knoxville Wedding Venues
+
+> Independent, source-cited directory of wedding venues in Knoxville, TN and the Smoky Mountain foothills.
+
+## Venues
+- [The Mill & Mine](https://seankrux.github.io/knoxville-wedding-venues/venues/the-mill-and-mine/): Downtown Knoxville (227 W Depot Ave); capacity: Up to 450 seated; price: not published
+- [The Standard](https://seankrux.github.io/knoxville-wedding-venues/venues/the-standard/): Old City, Knoxville (416 W Jackson Ave); capacity: Up to 140 guests for weddings (220 for other events); price: not published
+- [The Relix](https://seankrux.github.io/knoxville-wedding-venues/venues/the-relix/): Happy Holler, North Knoxville; capacity: 150 seated / 250 standing; price: not published
+- [The Brookside](https://seankrux.github.io/knoxville-wedding-venues/venues/the-brookside/): Happy Holler, North Knoxville (1221 N Central St); capacity: 300 seated / 400 standing; price: not published
+- [On Broadway Event Center](https://seankrux.github.io/knoxville-wedding-venues/venues/on-broadway-event-center/): North Knoxville (4683 Old Broadway); capacity: Up to 250 guests (about 5,000 sq ft); price: not published
+- [Five Thirty Lounge](https://seankrux.github.io/knoxville-wedding-venues/venues/five-thirty-lounge/): Downtown Knoxville (530 S Gay St); capacity: not published; price: not published
+- [The Adelene](https://seankrux.github.io/knoxville-wedding-venues/venues/the-adelene/): Fountain City, North Knoxville (104 Hotel Rd); capacity: not published; price: not published
+- [The Press Room](https://seankrux.github.io/knoxville-wedding-venues/venues/the-press-room/): Downtown Knoxville; capacity: Up to 600 indoors; price: not published
+- [Knoxville Museum of Art](https://seankrux.github.io/knoxville-wedding-venues/venues/knoxville-museum-of-art/): World's Fair Park, Downtown; capacity: 200 seated / 250 standing (Bailey Hall); price: Weddings $6,000 (Jan–Mar) or $7,500 for a 4-hour event
+- [Historic Bleak House](https://seankrux.github.io/knoxville-wedding-venues/venues/historic-bleak-house/): West Knoxville (3148 Kingston Pike); capacity: About 150 for a reception and 75 for a sit-down meal in the house; more with the terrace and gardens; price: $2,900 for an 8-hour Friday–Sunday block in prime season (April–October), including a coordinator; reduced weekday and off-season rates
+- [The Pavilion at Hunter Valley Farm](https://seankrux.github.io/knoxville-wedding-venues/venues/the-pavilion-at-hunter-valley-farm/): West Knoxville (9133 Hunter Valley Ln); capacity: Amphitheater ceremony seating up to 350; elopement package up to 30; price: not published
+- [RiverView Family Farm](https://seankrux.github.io/knoxville-wedding-venues/venues/riverview-family-farm/): West Knoxville (12130 Prater Ln, Fort Loudon Lake); capacity: Up to 200 (packages include 150; $18 per additional guest); price: not published
+- [Grand Valley Farms](https://seankrux.github.io/knoxville-wedding-venues/venues/grand-valley-farms/): South Knoxville (1607 Grand Valley Rd); capacity: Up to 150; price: not published
+- [The Stables at Strawberry Creek](https://seankrux.github.io/knoxville-wedding-venues/venues/the-stables-at-strawberry-creek/): Northeast Knoxville (733 McCubbins Rd); capacity: Up to 300 (250+ indoors for rain); price: Fall 2026 special: $2,999 (valid only for remaining Oct–Nov 2026 dates; checked Oct 14, 2026; regular pricing not published)
+- [The Julianna Wedding & Event Venue](https://seankrux.github.io/knoxville-wedding-venues/venues/the-julianna-wedding-and-event-venue/): West Knoxville (9111 Hunter Valley Ln); capacity: Garden ceremony seating up to 150; price: not published
+- [The Grand Victorian](https://seankrux.github.io/knoxville-wedding-venues/venues/the-grand-victorian/): East Tennessee hills near Knoxville; capacity: Up to 250 outdoors; price: not published
+- [The Manor at Hickory Creek](https://seankrux.github.io/knoxville-wedding-venues/venues/the-manor-at-hickory-creek/): West Knoxville (12544 Yarnell Rd); capacity: Up to 110; price: Elopement (up to 50) $2,500 weekday / $3,500 weekend; packages $3,900–$7,500
+- [The Quarry Venue](https://seankrux.github.io/knoxville-wedding-venues/venues/the-quarry-venue/): West Knoxville (2320 Keller Bend Rd); capacity: Up to 300 (The Carrara, 6,000 sq ft); price: not published
+- [Heartland Meadows](https://seankrux.github.io/knoxville-wedding-venues/venues/heartland-meadows/): East Tennessee (Knoxville area); capacity: Ceremony site seats up to 300; price: not published
+- [Cedar Pond Farms](https://seankrux.github.io/knoxville-wedding-venues/venues/cedar-pond-farms/): New Market, TN (1369 Collins Rd); capacity: Up to 250; price: not published
+- [Pure Water Farm](https://seankrux.github.io/knoxville-wedding-venues/venues/pure-water-farm/): Near Maryville, TN; capacity: 100 in the barn; 200+ with a tent; price: not published
+- [Marblegate Farm](https://seankrux.github.io/knoxville-wedding-venues/venues/marblegate-farm/): Friendsville, TN (308 McReynolds Rd, Tennessee River); capacity: 50–250 in Marblegate Hall (call for 250+); price: Rental $6,950–$12,950
+- [UT Gardens Knoxville](https://seankrux.github.io/knoxville-wedding-venues/venues/ut-gardens-knoxville/): University of Tennessee campus (2518 Jacob Dr); capacity: Holly Room: 150 theater-style / 100 at rounds; price: Wedding package (McIlwaine Pavilion + Rose Garden) $1,200 for 4 hours; garden spaces from $250 for 2 hours (2024 rate sheet)
+- [Maple Grove Estate](https://seankrux.github.io/knoxville-wedding-venues/venues/maple-grove-estate/): West Knoxville (8800 Westland Dr); capacity: not published; price: not published
+- [Knoxville Botanical Garden and Arboretum](https://seankrux.github.io/knoxville-wedding-venues/venues/knoxville-botanical-garden-and-arboretum/): East Knoxville; capacity: Dogwood Center: 250 ceremony / 200 reception; price: $2,000–$7,000 depending on space and details
+- [Marble Springs State Historic Site](https://seankrux.github.io/knoxville-wedding-venues/venues/marble-springs-state-historic-site/): South Knoxville (1220 W Gov John Sevier Hwy); capacity: 150+ guest pricing tier; price: $150–$500 for 3 hours depending on guest count
+- [Historic Ramsey House](https://seankrux.github.io/knoxville-wedding-venues/venues/historic-ramsey-house/): East Knox County; capacity: Up to 300 outdoors; 80 indoors; price: $700–$2,000 depending on day and half/full day
+- [Castleton Estate](https://seankrux.github.io/knoxville-wedding-venues/venues/castleton-estate/): Loudon, TN; capacity: Up to 200 (Saturdays); 125 on select Sundays/weekdays; price: not published
+- [Dancing Bear Lodge & Appalachian Bistro](https://seankrux.github.io/knoxville-wedding-venues/venues/dancing-bear-lodge-and-appalachian-bistro/): Townsend, TN (Smoky Mountain foothills); capacity: Outdoor ceremony up to 200; pavilion dining up to 75; price: not published
+- [Blackberry Farm](https://seankrux.github.io/knoxville-wedding-venues/venues/blackberry-farm/): Walland, TN (1471 West Millers Cove Rd); capacity: Up to 140 guests (Bramble Hall / overnight packages); price: not published
+- [Tremont Lodge & Resort](https://seankrux.github.io/knoxville-wedding-venues/venues/tremont-lodge-and-resort/): Townsend, TN (7726 E Lamar Alexander Pkwy); capacity: Up to 240; price: not published
+- [The Barn Event Center of the Smokies](https://seankrux.github.io/knoxville-wedding-venues/venues/the-barn-event-center-of-the-smokies/): Townsend, TN (7264 E Lamar Alexander Pkwy); capacity: Up to 200; price: not published
+
+## Guides and categories
+- [Knoxville wedding venue cost guide](https://seankrux.github.io/knoxville-wedding-venues/guides/knoxville-wedding-venue-cost/)
+- [Barn wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/barn/)
+- [Rustic wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/rustic/)
+- [Outdoor wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/outdoor/)
+- [Budget-friendly wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/budget/)
+- [Downtown wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/downtown/)
+- [Lakefront and riverfront wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/lakefront/)
+- [All-inclusive wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/all-inclusive/)
+- [Wedding venues for 250+ guests](https://seankrux.github.io/knoxville-wedding-venues/best/large/)
+- [Smoky Mountain and foothills wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/mountain/)
+- [Wedding venues under $3,000](https://seankrux.github.io/knoxville-wedding-venues/best/under-3000/)
+- [Small and intimate wedding venues](https://seankrux.github.io/knoxville-wedding-venues/best/intimate/)
+
+## Pages
+- [FAQ](https://seankrux.github.io/knoxville-wedding-venues/faq/)
+- [Get featured](https://seankrux.github.io/knoxville-wedding-venues/get-featured/)
